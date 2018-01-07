@@ -1,4 +1,4 @@
-# Simple-Blockchain-API-SBA-
+# Simple Blockchain API (SBA)
 This is a simple blockchain API for Java. It's very basic and easy to use.
 
 ## How to use it
